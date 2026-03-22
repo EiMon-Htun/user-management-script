@@ -1,0 +1,16 @@
+Running script at Sun Mar 22 18:13:55 UTC 2026
+Group devops already exists
+User alice already exists
+User bob already exists
+User charlie already exists
+Running script at Sun Mar 22 18:59:23 UTC 2026
+Group engineers created
+User mgmg created
+User hlahla created
+User tuntun created
+Error creating user 
+Running script at Sun Mar 22 19:01:50 UTC 2026
+Group engineers already exists
+User mgmg already exists
+User hlahla already exists
+User tuntun already exists
